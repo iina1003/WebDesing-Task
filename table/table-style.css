@@ -1,0 +1,25 @@
+@charset "utf-8";
+table{
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+caption{
+    font-size: 100px;
+    color: aliceblue;
+    background-color: black;
+    font-family: "HGP創英角ﾎﾟｯﾌﾟ体","HGS創英角ﾎﾟｯﾌﾟ体"serif;
+}
+table,tr,td,th{
+    border: solid 3px black;
+    font-family: "HGP創英角ﾎﾟｯﾌﾟ体","HGS創英角ﾎﾟｯﾌﾟ体"serif;
+}
+th{
+    font-size: 50px ;
+}
+tr{
+    font-size: 20px;
+}
+table{
+    background-image: url(img/Sleeping_with_Kabigon_01.jpg);
+    background-size: contain;
+}
