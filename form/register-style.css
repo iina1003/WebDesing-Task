@@ -1,0 +1,10 @@
+.red-back {
+    background-color: red;
+    color: white;
+    font-size: 0.7rem;
+    border-radius: 25% 45%;
+}
+
+.brackets {
+    font-size: 0.6rem;
+}
